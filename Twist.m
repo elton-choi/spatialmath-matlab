@@ -27,8 +27,8 @@
 %  *             multiply Twist by a scalar
 %
 % Properties (read only)::
-%  v             moment part of twist (2x1 or 3x1)
-%  w             direction part of twist (1x1 or 3x1)
+%  v             direction part of twist (2x1 or 3x1)
+%  w             moment part of twist (2x1 or 3x1)
 %
 % References::
 % - "Mechanics, planning and control"
